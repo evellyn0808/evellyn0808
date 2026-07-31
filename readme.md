@@ -44,3 +44,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
+
+<div align="center">
+
+### ✨ Obrigada pela visita!
+
+<img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&style=for-the-badge&color=8A63D2"/>
+
+</div>
