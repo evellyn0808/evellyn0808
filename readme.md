@@ -6,7 +6,11 @@
 
 > *"Transformando ideias em soluções através da tecnologia."*
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=C084FC&center=true&vCenter=true&width=650&lines=Bem-vindo(a)+ao+meu+perfil!;Estudante+de+ADS;Desenvolvedora+Web;Sempre+aprendendo+novas+tecnologias+🚀">
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
 
 </div>
 
@@ -73,15 +77,14 @@ Atualmente estou aprofundando meus conhecimentos em desenvolvimento web, banco d
 
 ## Obrigada pela visita!
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=7C3AED"/>
+<img src="https://komarev.com/ghpvc/?username=evellyn0808&style=for-the-badge&color=7C3AED"/>
 
 </div>
 
 ---
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=evellyn0808&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
