@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨Evellyn!
+# Evellyn!
 
 ### 💻 Análise e Desenvolvimento de Sistemas • Desenvolvedora Web
 
@@ -18,14 +18,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Escola A. Jacob
 
 Atualmente estou aprofundando meus conhecimentos em desenvolvimento web, banco de dados e programação orientada a objetos.
 
-Gosto de criar interfaces modernas, desenvolver soluções úteis e transformar ideias em projetos reais.
-
-- 🎓 Estudante de ADS
-- 🌱 Sempre aprendendo novas tecnologias
-- 💜 Apaixonada por desenvolvimento web
-- 🚀 Em busca da primeira oportunidade na área
-
----
 
 # 💻 Tecnologias
 
@@ -41,9 +33,9 @@ Gosto de criar interfaces modernas, desenvolver soluções úteis e transformar 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=evellyn0808&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evellyn0808&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -51,53 +43,9 @@ Gosto de criar interfaces modernas, desenvolver soluções úteis e transformar 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=evellyn0808&theme=tokyonight&hide_border=true"/>
 
 </div>
-
----
-
-# 🚀 Projeto em Destaque
-
-## ✨ Lumière Decor
-
-Sistema desenvolvido como Projeto Integrador para locação de itens decorativos.
-
-### Funcionalidades
-
-- ✔️ Reserva de produtos
-- ✔️ Orçamento automático
-- ✔️ Painel Administrativo
-- ✔️ Controle de devoluções
-- ✔️ Gerenciamento de contratos
-
-### Tecnologias utilizadas
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=php,mysql,html,css,js"/>
-
-</p>
-
----
-
-# 📚 Atualmente estudando
-
-```text
-☕ Java
-
-🐘 PHP
-
-🟨 JavaScript
-
-🐬 MySQL
-
-🌐 APIs REST
-
-📱 Desenvolvimento Web
-
-📦 Git e GitHub
-```
 
 ---
 
@@ -105,15 +53,15 @@ Sistema desenvolvido como Projeto Integrador para locação de itens decorativos
 
 <div align="center">
 
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:evyy372@gmail.com">
 <img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://linkedin.com/in/SEU_LINKEDIN">
+<a href="https://www.linkedin.com/in/evellyn-lima-aab619352/">
 <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://instagram.com/SEU_INSTAGRAM">
+<a href="https://www.instagram.com/evyxz0/">
 <img src="https://img.shields.io/badge/Instagram-A855F7?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
@@ -123,7 +71,7 @@ Sistema desenvolvido como Projeto Integrador para locação de itens decorativos
 
 <div align="center">
 
-## 💜 Obrigada pela visita!
+## Obrigada pela visita!
 
 <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=7C3AED"/>
 
