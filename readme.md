@@ -12,6 +12,16 @@
   
 #
 
+## 💻 Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,java,mysql,git,github,vscode,figma"/>
+
+</div>
+
+---
+
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
 <h3 align="left">Connect with me!</h3>
