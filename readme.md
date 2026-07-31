@@ -1,13 +1,8 @@
-# ✨ Evellyn
+# Evellyn
 
 ### 👩‍💻 Análise e Desenvolvimento de Sistemas • Desenvolvedora Web
 
 *"Transformando ideias em soluções através da tecnologia."*
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=8A63D2&center=true&vCenter=true&width=600&lines=Estudante+de+ADS;Desenvolvedora+Front-end;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" />
-</p>
-
 </div>
 
 
