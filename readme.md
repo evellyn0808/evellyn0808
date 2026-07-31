@@ -1,62 +1,152 @@
-# Evellyn
-
-### Análise e Desenvolvimento de Sistemas • Desenvolvedora Web
-
-*"Transformando ideias em soluções através da tecnologia."*
-</div>
-
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
-  </a>
-</div>
-
-<img align="center" alt="" src="./src/header-gif.gif">
-
-#
-
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Escola A. Jacob Lafer. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia
-  
-#
-
-## 💻 Tecnologias
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,java,mysql,git,github,vscode,figma"/>
+# ✨Evellyn!
+
+### 💻 Análise e Desenvolvimento de Sistemas • Desenvolvedora Web
+
+> *"Transformando ideias em soluções através da tecnologia."*
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=C084FC&center=true&vCenter=true&width=650&lines=Bem-vindo(a)+ao+meu+perfil!;Estudante+de+ADS;Desenvolvedora+Web;Sempre+aprendendo+novas+tecnologias+🚀">
 
 </div>
 
 ---
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
+# 👩‍💻 Sobre mim
 
-<h3 align="left">Connect with me!</h3>
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Escola A. Jacob Lafer**.
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:evyy372@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/evellyn-silva-de-lima-aab619352/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/evyxz0/)
+Atualmente estou aprofundando meus conhecimentos em desenvolvimento web, banco de dados e programação orientada a objetos.
 
+Gosto de criar interfaces modernas, desenvolver soluções úteis e transformar ideias em projetos reais.
 
+- 🎓 Estudante de ADS
+- 🌱 Sempre aprendendo novas tecnologias
+- 💜 Apaixonada por desenvolvimento web
+- 🚀 Em busca da primeira oportunidade na área
 
-#
+---
 
-
-</div>
-
-#
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-</picture>
+# 💻 Tecnologias
 
 <div align="center">
 
-### ✨ Obrigada pela visita!
+<img src="https://skillicons.dev/icons?i=html,css,js,php,java,mysql,git,github,vscode,figma&perline=10"/>
 
-<img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&style=for-the-badge&color=8A63D2"/>
+</div>
+
+---
+
+# 📊 Estatísticas
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🚀 Projeto em Destaque
+
+## ✨ Lumière Decor
+
+Sistema desenvolvido como Projeto Integrador para locação de itens decorativos.
+
+### Funcionalidades
+
+- ✔️ Reserva de produtos
+- ✔️ Orçamento automático
+- ✔️ Painel Administrativo
+- ✔️ Controle de devoluções
+- ✔️ Gerenciamento de contratos
+
+### Tecnologias utilizadas
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=php,mysql,html,css,js"/>
+
+</p>
+
+---
+
+# 📚 Atualmente estudando
+
+```text
+☕ Java
+
+🐘 PHP
+
+🟨 JavaScript
+
+🐬 MySQL
+
+🌐 APIs REST
+
+📱 Desenvolvimento Web
+
+📦 Git e GitHub
+```
+
+---
+
+# 📫 Conecte-se comigo
+
+<div align="center">
+
+<a href="mailto:SEU_EMAIL">
+<img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://linkedin.com/in/SEU_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://instagram.com/SEU_INSTAGRAM">
+<img src="https://img.shields.io/badge/Instagram-A855F7?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💜 Obrigada pela visita!
+
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=7C3AED"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+<div align="center">
+
+### ✨ *"A tecnologia move o mundo, mas são as pessoas que fazem a diferença."*
 
 </div>
