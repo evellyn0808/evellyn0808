@@ -1,6 +1,6 @@
 # Evellyn
 
-### 👩‍💻 Análise e Desenvolvimento de Sistemas • Desenvolvedora Web
+### Análise e Desenvolvimento de Sistemas • Desenvolvedora Web
 
 *"Transformando ideias em soluções através da tecnologia."*
 </div>
